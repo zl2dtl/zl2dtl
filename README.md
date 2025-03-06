@@ -1,6 +1,1 @@
-- 👋 Hi, I’m @zl2dtl
-- 👀 I’m interested in Amateur Radio related projects, and linux distro hopping
-- 🌱 I’m currently learning Assembly for Z80
-- 💞️ I’m looking to collaborate on Open Source HAM Radio projects
-- 📫 How to reach me: nova@zenoc.net on email , nova:zenoc.net on Matrix. 
-- 😄 Pronouns: he/him
+Hi, new github account :)
